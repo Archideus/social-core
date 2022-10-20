@@ -1,1 +1,2 @@
 python3-saml>=1.2.1
+lxml>=4.9.1 # not directly required, pinned by Snyk to avoid a vulnerability
